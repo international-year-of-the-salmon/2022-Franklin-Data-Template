@@ -1,6 +1,30 @@
-# Changelog
-All notable changes to this project will be documented in this file.
+# Changelog for IYS_2022_FRANKLIN
 
-## [Unreleased]
+All notable changes to the IYS_2022_FRANKLIN will be documented in this file.
 
-## [0.0.1] - 2022-07-26
+## Notes:
+
+The original data template file (IYS_2022_FRANKLIN_Bridge_Catch_Specimen.xlsx) is stored in the original_data folder.
+The changes made between versions / releases are documented below.
+
+## [Unreleased] 2022-07-28
+
+As DFO has a naming system in place, their Station_Event_IDs - and consequently, also the Catch_IDs and Specimen_IDs - are constructed slightly differently.
+Whilst properly nested, some changes were made to the columns to facilitate construction of Station_Event_IDs, Catch_IDs and Specimen_IDs that follow the IYS format.
+This should improve interoperability with other trawl and specimen from the other vessels.
+
+### Changed
+- In sheet '3. SAMPLING EVENT INFO': Original Station_Event_ID column renamed to 'DFO_Station_Event_ID'
+- In sheet '4. CATCH_FINAL INFO': Original Station_Event_ID and Catch_ID columns renamed to 'DFO_Station_Event_ID' and 'DFO_Catch_ID' respectively
+- In sheet '5. SPECIMEN INFO': Original Station_Event_ID, Catch_ID and Specimen_ID columns renamed to 'DFO_Station_Event_ID', 'DFO_Catch_ID' and 'DFO_Specimen_ID', respectively.
+- In all sheets, CCGS Franklin was replaced by 'Franklin'. 
+
+### Added
+- In sheet '3. SAMPLING EVENT INFO': Column 'Cruise_name' added, populated with "IYS2022"
+- In sheet '3. SAMPLING EVENT INFO': Column "Station_Event_ID" created, populated following the IYS format (i.e. IYS2022-CCGS Franklin-5-48-138-Trawl)
+- In sheet '4. CATCH_FINAL INFO': Columns Station_Event_ID and Catch_ID created following the IYS format (i.e. for Catch_ID: IYS2022-CCGS Franklin-5-50-135-Trawl-3R5)
+- In sheet '4. CATCH_FINAL INFO': Column 'SpeciesID' created to facilitate construction of Catch_ID. 
+- In sheet '5. SPECIMEN INFO': Columns Station_Event_ID, Catch_ID and Specimen_ID created following the IYS format (i.e. for Specimen_ID: IYS2022-CCGS Franklin-5-50-135-Trawl-3XU-0001)
+- In sheet '5. SPECIMEN INFO': Column 'SpecimenID' created to facilitate construction of the Specimen_ID. 
+
+### Removed
