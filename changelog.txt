@@ -19,6 +19,7 @@ This should improve interoperability with other trawl and specimen from the othe
 - In sheet '5. SPECIMEN INFO': Original Station_Event_ID, Catch_ID and Specimen_ID columns renamed to 'DFO_Station_Event_ID', 'DFO_Catch_ID' and 'DFO_Specimen_ID', respectively.
 - In all sheets, CCGS Franklin was replaced by 'Franklin'. 
 - In sheet '4. CATCH_FINAL INFO': Hormiphora cucumisÂ in column 'Scientific_Name' was changed to "Hormiphora cucumis"
+- In sheet '3. SAMLING EVENT INFO': For station 51-132, the bottom_depth_meters was changed to 2684 as per comm. with Amy Tabata. This was the modal bottom depth across the trawl, with the depth at the start being 2810 m, and at the end 2615 m. 
 
 ### Added
 - In sheet '3. SAMPLING EVENT INFO': Column 'Cruise_name' added, populated with "IYS2022"
