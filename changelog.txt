@@ -2,10 +2,80 @@
 
 All notable changes to the IYS_2022_FRANKLIN will be documented in this file.
 
+The changes made between versions / releases are documented below.
+
 ## Notes:
 
-The original data template file (IYS_2022_FRANKLIN_Bridge_Catch_Specimen.xlsx) is stored in the original_data folder.
-The changes made between versions / releases are documented below.
+The original data template file (first version: IYS_2022_FRANKLIN_Bridge_Catch_Specimen.xlsx) is stored in the original_data folder, in the 'archived' folder.
+The second version received (IYS_2022_FRANKLIN_V2.0_20220928.xlsx) has been stored in the original_data folder. 
+
+The second version was populated by A. Tabata (DFO) on top of the amended file, and so includes the initial changes made between the first version and the IYS_2022_FRANKLIN.
+These initial changes are logged under "## [Unreleased] 2022-07-28". 
+
+The changes made between the amended first version and the second version are included below: "## [Unreleased] 2022-09-28", and are also included in the second version (IYS_2022_FRANKLIN_V2.0_20220928.xlsx), under the tab "AT Changes 20220928".
+
+The file `IYS_2022_FRANKLIN` continues to be the file that contains the latest version received from the data provider.
+
+## [Unreleased] 2022-09-28
+
+### Changed
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-49-135-Trawl-118-0001: Species Changed from Chum to Sockeye based on GSI
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-49-135-Trawl-118-0002: Species Changed from Chum to Sockeye based on GSI
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-48-138-Trawl-108-0030: Species Changed from Chum to Pink based on GSI
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-48-138-Trawl-118-0034: Species Changed from Chum to Sockeye based on GSI
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-49-141-Trawl-5A3-0001: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-49-141-Trawl-5A3-0002: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-49-141-Trawl-5A3-0003: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-49-141-Trawl-5A3-0004: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-49-141-Trawl-5A3-0005: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-49-141-Trawl-5A3-0006: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-49-141-Trawl-5A3-0007: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-49-141-Trawl-5A3-0008: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-49-141-Trawl-5A3-0009: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-49-141-Trawl-5A3-0010: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-49-141-Trawl-5A3-0011: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-49-141-Trawl-5A3-0012: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-49-141-Trawl-5A3-0013: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-49-141-Trawl-5A3-0014: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-48-144-Trawl-5A3-0015: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-48-144-Trawl-5A3-0016: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-48-144-Trawl-5A3-0017: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-48-144-Trawl-5A3-0018: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-53-141-Trawl-118-0083: Species Changed from Chum to Sockeye based on GSI
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-53-141-Trawl-5A3-0019: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-53-141-Trawl-5A3-0020: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-53-141-Trawl-5A3-0021: Species changed from 5A2 A. aurita to 5A3 A. labiata due to GFBio entry error
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-55-141-Trawl-317-0001: Frozen for Id. ID'd by Moira as Bathymaster, probably signatus
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-55-141-Trawl-317-0002: Frozen for Id. ID'd by Moira as Bathymaster, probably signatus
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-55-141-Trawl-317-0003: Frozen for Id. ID'd by Moira as Bathymaster, probably signatus
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-55-141-Trawl-317-0004: Frozen for Id. ID'd by Moira as Bathymaster, probably signatus
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-55-141-Trawl-317-0005: Frozen for Id. ID'd by Moira as Bathymaster, probably signatus
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-55-141-Trawl-317-0006: Frozen for Id. ID'd by Moira as Bathymaster, probably signatus
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-56-144-Trawl-317-0007: Frozen for Id. ID'd by Moira as Bathymaster, probably signatus
+- In sheet '5. SPECIMEN INFO', for Specimen_ID: IYS2022-Franklin-5-53-144-Trawl-112-0091: Originally Id'd as Sockeye.  Cahnged to Chum based on GSI results
+
+- In sheet '4. CATCH_FINAL INFO', for Catch_ID: IYS2022-Franklin-5-48-138-Trawl-108: Originally ID'd as part of Chum Catch and changed to Pink based on GSI
+- In sheet '4. CATCH_FINAL INFO', for Catch_ID: IYS2022-Franklin-5-48-138-Trawl-118: Originally ID'd as part of Chum Catch and changed to Sockeye  based on GSI
+- In sheet '4. CATCH_FINAL INFO', for Catch_ID: IYS2022-Franklin-5-49-135-Trawl-118: SPECIES CHANGED origianlly both id'd as chum, changed to Sockeye based on GSI
+- In sheet '4. CATCH_FINAL INFO', for Catch_ID: IYS2022-Franklin-5-48-138-Trawl-112: Orig recorded 9 chum but GSI id 1 as sockeye and 1 as pink.  Adjusted count and weight
+- In sheet '4. CATCH_FINAL INFO', for Catch_ID: IYS2022-Franklin-5-49-141-Trawl-5A3: Species updated from 5A2 to 5A3 due to gfbio entry error
+- In sheet '4. CATCH_FINAL INFO', for Catch_ID: IYS2022-Franklin-5-48-144-Trawl-5A3: Species updated from 5A2 to 5A3 due to gfbio entry error
+- In sheet '4. CATCH_FINAL INFO', for Catch_ID: IYS2022-Franklin-5-53-141-Trawl-118: Original count of 2 updated to 3 due to gsi. Count and Weight Adjusted
+- In sheet '4. CATCH_FINAL INFO', for Catch_ID: IYS2022-Franklin-5-53-141-Trawl-112: Original count of 2 updated to 1 due to gsi. Count and Weight Adjusted
+- In sheet '4. CATCH_FINAL INFO', for Catch_ID: IYS2022-Franklin-5-53-141-Trawl-5A3: Species updated from 5A2 to 5A3 due to gfbio entry error
+- In sheet '4. CATCH_FINAL INFO', for Catch_ID: IYS2022-Franklin-5-55-141-Trawl-317: CW thinks larval prickleback? Frozen  for ID.  ID'd  at IOS by Moira as Bathymaster, probably signatus
+- In sheet '4. CATCH_FINAL INFO', for Catch_ID: IYS2022-Franklin-5-56-144-Trawl-317: CW thinks larval prickleback? Frozen  for ID.  ID'd  at IOS by Moira as Bathymaster, probably signatus
+- In sheet '4. CATCH_FINAL INFO', for Catch_ID: IYS2022-Franklin-5-53-144-Trawl-118: no VA, Original count of 9 updated to 8 based on GSI of 1 SK as actually Chum
+- In sheet '4. CATCH_FINAL INFO', for Catch_ID: IYS2022-Franklin-5-53-144-Trawl-112: Sample orig id'd as Sockeye and changed to chum from GSI
+
+### Added
+- CTD and Rosette data are now added to sheets '6. CTD INFO' and '7. ROSETTE INFO' respectively. 
+- In sheet '5. SPECIMEN INFO': column 'Species_Updated' added to indicate whether the species has been updated from the previous version. 
+- New sheet added: 'AT Changes 20220928' to highlight the changes made between versions.
+
+### Removed
+
+----
 
 ## [Unreleased] 2022-07-28
 
@@ -19,7 +89,7 @@ This should improve interoperability with other trawl and specimen from the othe
 - In sheet '5. SPECIMEN INFO': Original Station_Event_ID, Catch_ID and Specimen_ID columns renamed to 'DFO_Station_Event_ID', 'DFO_Catch_ID' and 'DFO_Specimen_ID', respectively.
 - In all sheets, CCGS Franklin was replaced by 'Franklin'. 
 - In sheet '4. CATCH_FINAL INFO': Hormiphora cucumisÂ in column 'Scientific_Name' was changed to "Hormiphora cucumis"
-- In sheet '3. SAMLING EVENT INFO': For station 51-132, the bottom_depth_meters was changed to 2684 as per comm. with Amy Tabata. This was the modal bottom depth across the trawl, with the depth at the start being 2810 m, and at the end 2615 m. 
+- In sheet '3. SAMPLING EVENT INFO': For station 51-132, the bottom_depth_meters was changed to 2684 as per comm. with Amy Tabata. This was the modal bottom depth across the trawl, with the depth at the start being 2810 m, and at the end 2615 m. 
 
 ### Added
 - In sheet '3. SAMPLING EVENT INFO': Column 'Cruise_name' added, populated with "IYS2022"
