@@ -4,6 +4,11 @@ All notable changes to the IYS_2022_FRANKLIN will be documented in this file.
 
 The changes made between versions / releases are documented below.
 
+## [Unreleased] 2023-02-23
+
+### Changed
+- In sheet '6. CTD INFO': '_Rosette' was appended and the dash between IYS and 2022 was removed to match the Station_Event_ID values to match the format in the Sampling Event Info tab
+
 ## Notes:
 
 The original data template file (first version: IYS_2022_FRANKLIN_Bridge_Catch_Specimen.xlsx) is stored in the original_data folder, in the 'archived' folder.
